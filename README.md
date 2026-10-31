@@ -1,2 +1,10 @@
-This project intends to recreate Foundation, AppKit, and other related System Frameworks while maintaining binary, 
-ABI and API compatibility for both PPC and Intel. This project intends to provide the frameworks for RhapsodiOS.
+This project aims to completely reïmplement Rhapsody OS components. 
+
+# Frameworks
+- AppKit (near complete) [Information](https://github.com/austintatiousness/OpenNextFrameworks/wiki/AppKit.framework)
+- Foundation (in progress)
+
+# Private Frameworks
+
+# CoreServices
+- WindowServer (in prgoress) [Information](https://github.com/austintatiousness/OpenNextFrameworks/wiki/WindowServer)
