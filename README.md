@@ -1,3 +1,6 @@
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/3ac516d4-b124-42c8-8d86-997660a039c1" />
+Daxford, OpenNext Mascot
+
 This project aims to completely reïmplement Rhapsody OS components. These components are intended to have a build mode that creates binary compatible (ABI stable) Frameworks and Services. 
 
 # Build Modes
